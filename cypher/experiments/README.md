@@ -7,3 +7,4 @@
 5. no index on `:Country(name)`
 6. no index on `:Message(creationDate)`
 7. no index on `:Person(firstName)`
+8. no index on `:Post(creationDate)`
