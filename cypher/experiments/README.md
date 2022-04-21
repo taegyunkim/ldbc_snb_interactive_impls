@@ -8,3 +8,4 @@
 6. no index on `:Message(creationDate)`
 7. no index on `:Person(firstName)`
 8. no index on `:Post(creationDate)`
+9. no index on `:Tag(name)`
