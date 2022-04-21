@@ -9,3 +9,4 @@
 7. no index on `:Person(firstName)`
 8. no index on `:Post(creationDate)`
 9. no index on `:Tag(name)`
+10. no index on `:TagClass(name)`
