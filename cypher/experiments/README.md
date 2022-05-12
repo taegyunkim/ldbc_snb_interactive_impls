@@ -10,3 +10,4 @@
 8. no index on `:Post(creationDate)`
 9. no index on `:Tag(name)`
 10. no index on `:TagClass(name)`
+11. all indices with operationCount=1000
