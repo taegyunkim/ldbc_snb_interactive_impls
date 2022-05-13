@@ -1,0 +1,19 @@
+{"time":"2022-05-13 19:37:10.495+0000","level":"INFO","type":"security","source":"null","message":"Initializing system graph model for component 'security-users' with version -1 and status UNINITIALIZED"}
+{"time":"2022-05-13 19:37:10.500+0000","level":"INFO","type":"security","source":"null","message":"Setting up initial user from defaults: neo4j"}
+{"time":"2022-05-13 19:37:10.500+0000","level":"INFO","type":"security","source":"null","message":"Creating new user 'neo4j' (passwordChangeRequired=true, suspended=false)"}
+{"time":"2022-05-13 19:37:10.510+0000","level":"INFO","type":"security","source":"null","message":"Setting version for 'security-users' to 3"}
+{"time":"2022-05-13 19:37:10.513+0000","level":"INFO","type":"security","source":"null","message":"After initialization of system graph model component 'security-users' have version 3 and status CURRENT"}
+{"time":"2022-05-13 19:37:10.516+0000","level":"INFO","type":"security","source":"null","message":"Performing postInitialization step for component 'security-users' with version 3 and status CURRENT"}
+{"time":"2022-05-13 19:37:10.565+0000","level":"INFO","type":"security","source":"null","message":"Initializing system graph model for component 'security-privileges' with version -1 and status UNINITIALIZED"}
+{"time":"2022-05-13 19:37:10.566+0000","level":"INFO","type":"security","source":"null","message":"Initializing security model with 6 roles"}
+{"time":"2022-05-13 19:37:10.623+0000","level":"INFO","type":"security","source":"null","message":"Setting version for 'security-privileges' to 4"}
+{"time":"2022-05-13 19:37:10.625+0000","level":"INFO","type":"security","source":"null","message":"Upgrading 'security-privileges' version property from 4 to 5"}
+{"time":"2022-05-13 19:37:10.629+0000","level":"INFO","type":"security","source":"null","message":"Upgrading 'security-privileges' version property from 5 to 6"}
+{"time":"2022-05-13 19:37:10.632+0000","level":"INFO","type":"security","source":"null","message":"Upgrading 'security-privileges' version property from 6 to 7"}
+{"time":"2022-05-13 19:37:10.632+0000","level":"INFO","type":"security","source":"null","message":"Upgrading 'security-privileges' version property from 7 to 8"}
+{"time":"2022-05-13 19:37:10.632+0000","level":"INFO","type":"security","source":"null","message":"Upgrading 'security-privileges' version property from 8 to 9"}
+{"time":"2022-05-13 19:37:10.638+0000","level":"INFO","type":"security","source":"null","message":"Upgrading 'security-privileges' version property from 9 to 10"}
+{"time":"2022-05-13 19:37:10.638+0000","level":"INFO","type":"security","source":"null","message":"Upgrading 'security-privileges' version property from 10 to 11"}
+{"time":"2022-05-13 19:37:10.638+0000","level":"INFO","type":"security","source":"null","message":"Upgrading 'security-privileges' version property from 11 to 12"}
+{"time":"2022-05-13 19:37:10.647+0000","level":"INFO","type":"security","source":"null","message":"Assigned admin role to user 'neo4j'."}
+{"time":"2022-05-13 19:37:10.654+0000","level":"INFO","type":"security","source":"null","message":"After initialization of system graph model component 'security-privileges' have version 12 and status CURRENT"}

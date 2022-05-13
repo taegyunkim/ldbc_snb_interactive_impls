@@ -11,3 +11,4 @@
 9. no index on `:Tag(name)`
 10. no index on `:TagClass(name)`
 11. all indices with operationCount=1000
+12. no constraint on `(n:Person)`
